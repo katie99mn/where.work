@@ -7,16 +7,16 @@ let team1 = {
 
 let team2 = {
     teamname: "Barcelona",
-    city: “Barcelona”,
-    country: “Spain”,
-    topscorers: [“Messi”, “Suarez”, “Puyol”],
+    city: "Barcelona",
+    country: "Spain",
+    topscorers: ["Messi", "Suarez", "Puyol"],
     worldwidefansinmillions: 738};
     
     let team3 = {
-    teamname: “Manchester United”,
-    city: “Manchester”,
-    country: “England”,
-    topscorers: [“Contona”, “Rooney”, “Ronaldo”],
+    teamname: "Manchester United",
+    city: "Manchester",
+    country: "England",
+    topscorers: ["Contona", "Rooney", "Ronaldo"],
     worldwidefansinmillions: 755};
     
     let team4 = {
